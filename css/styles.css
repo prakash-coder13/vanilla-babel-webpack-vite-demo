@@ -1,0 +1,33 @@
+body {
+  padding: 5rem;
+  height: 100%;
+  background: #f5f5f5;
+}
+button {
+  cursor: pointer;
+}
+
+.btn-hello {
+  margin-top: 2rem;
+  text-transform: uppercase;
+  padding: 0.5rem;
+  letter-spacing: 2px;
+}
+.msg {
+  background-color: #4da8da;
+  color: #000;
+  padding: 24px;
+  font-size: 24px;
+  box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px,
+    rgba(0, 0, 0, 0.22) 0px 15px 12px;
+  text-align: center;
+  margin: auto;
+  margin-top: 5rem;
+  display: none;
+}
+.msg--btn {
+  margin-top: 1rem;
+  padding: 0.5rem;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+}
