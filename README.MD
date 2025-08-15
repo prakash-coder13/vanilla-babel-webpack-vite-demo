@@ -1,8 +1,8 @@
-This repo shows how start with a a classic setup where create a webpage with just
+This repo shows how to start create a webpage with classic setup where we stitch together -
 
-- HTML file
-- JavaScript file
-- CSS file
+- An HTML file for the markup.
+- A JavaScript file for scripting/functions.
+- A CSS file for styling.
 
 and no fancy transpiler or builder.
 The main branch shows the vanilla setup and the output can be accessed at
